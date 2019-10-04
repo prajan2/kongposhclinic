@@ -1,0 +1,185 @@
+#title {
+  background-color: #ff4c68;
+
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+h2{
+  font-family: 'Montserrat';
+  font-size: 2rem;
+
+
+
+}
+.center{
+  padding: 1% 12%;
+  }
+.navbar-brand {
+  font-size: 40px;
+  font-weight: bolder;
+
+}
+
+.navbar {
+  padding: 0 0 2.5rem;
+}
+
+.nav-item {
+  padding: 0 10px;
+
+
+}
+.nav-link{
+  font-size: 1.8rem;
+  font-family: 'Ubuntu';
+  font-weight:bold;
+}
+.download-button{
+  margin: 5% 3% 5% 0 ;
+}
+.image-style{
+  width: 57%;
+  margin-left: 150px;
+}
+.control{
+  padding-top: 50px;
+}
+
+#features{
+  padding: 2% 2%;
+  background-color: #fff;
+}
+.image1{
+
+  width: 30%;
+  margin-bottom: 2rem;
+}
+.feature-box{
+  padding: 1%;
+  text-align: center;
+
+}
+h3{
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+  color:#fff;
+}
+h4{
+  font-weight: lighter;
+  font-family: "arial";
+}
+.size{
+  font-weight: lighter;
+  font-family: "tahoma";
+  font-size: 20px;
+}
+p{
+  font-size: 1.6rem;
+line-height: 2;
+font-weight:bold;
+
+
+}
+#footer12{
+  background-color: #222831;
+
+  text-align: center;
+  color: #fff;
+  margin-bottom: 0;
+
+
+}
+
+
+
+
+#footer{
+  background-color: #222831;
+  padding: 1%;
+  color: #fff;
+
+}
+
+
+#pricing{
+  margin: 0;
+  padding: 0 5%;
+  text-align: center;
+  background-color: #eeeeee;
+}
+.service{
+  padding: 1% 5%;
+  margin: 0;
+}
+.bottom{
+  padding: 3% 5%;
+  color: #fff;
+  background-color: #222831;
+
+
+}
+.icon{
+   padding: 1% 3%;
+}
+.ser{
+  margin-bottom: 0;
+}
+.but{
+  margin: 0 3% 5% 0;
+}
+
+.popover {
+  border: 4px solid;
+  font-weight:bold;
+font-size: 19px;
+  font-family: "tahoma";
+}
+#bio{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 2% 5%;
+}
+.bio{
+  font-size: 3rem;
+  line-height: 4.5;
+
+}
+/* Testimonial Section */
+
+
+
+.testimonial-image {
+  width: 70%;
+
+  border-radius: 100%;
+  margin: 30px;
+}
+
+.display-6{
+  padding: 1%;
+}
+.justify{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
+.pic{
+  margin-bottom: 4%;
+}
+.logo{
+  width: 60%;
+}
+.quote{
+  line-height: 95px;
+  color: 000;
+}
